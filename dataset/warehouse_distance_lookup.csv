@@ -1,0 +1,1522 @@
+Origin_Warehouse,Destination,Distance_miles
+Warehouse_MIA,San Francisco,291
+Warehouse_MIA,Atlanta,1225
+Warehouse_LA,Houston,220
+Warehouse_BOS,Seattle,1156
+Warehouse_SF,Dallas,1017
+Warehouse_ATL,New York,898
+Warehouse_BOS,Houston,1522
+Warehouse_CHI,Portland,2013
+Warehouse_HOU,Detroit,2072
+Warehouse_SF,Detroit,214
+Warehouse_MIA,Chicago,1736
+Warehouse_ATL,Boston,2366
+Warehouse_SEA,New York,650
+Warehouse_NYC,Phoenix,1574
+Warehouse_BOS,Miami,1849
+Warehouse_DEN,Minneapolis,1489
+Warehouse_CHI,Detroit,283
+Warehouse_LA,San Francisco,223
+Warehouse_ATL,Atlanta,1055
+Warehouse_MIA,Portland,1660
+Warehouse_SEA,Houston,1407
+Warehouse_CHI,San Francisco,440
+Warehouse_SEA,Los Angeles,1402
+Warehouse_DEN,Phoenix,256
+Warehouse_NYC,Portland,519
+Warehouse_DEN,Miami,386
+Warehouse_DEN,Boston,1986
+Warehouse_SF,Dallas,2229
+Warehouse_SEA,Chicago,2310
+Warehouse_BOS,Dallas,1048
+Warehouse_CHI,New York,1551
+Warehouse_SEA,Denver,528
+Warehouse_BOS,Dallas,131
+Warehouse_SF,Dallas,2209
+Warehouse_SF,Detroit,1674
+Warehouse_BOS,Denver,1550
+Warehouse_NYC,Los Angeles,1696
+Warehouse_NYC,Los Angeles,660
+Warehouse_SEA,New York,1153
+Warehouse_CHI,San Francisco,343
+Warehouse_NYC,Miami,1973
+Warehouse_LA,Los Angeles,2335
+Warehouse_SF,Dallas,816
+Warehouse_SF,Phoenix,1758
+Warehouse_SEA,Minneapolis,1267
+Warehouse_BOS,Chicago,1365
+Warehouse_BOS,Dallas,1847
+Warehouse_DEN,Minneapolis,2249
+Warehouse_CHI,Chicago,342
+Warehouse_SF,Minneapolis,1913
+Warehouse_HOU,Los Angeles,255
+Warehouse_SF,Los Angeles,600
+Warehouse_BOS,San Francisco,622
+Warehouse_HOU,Denver,1030
+Warehouse_ATL,Chicago,708
+Warehouse_BOS,Los Angeles,740
+Warehouse_LA,Miami,864
+Warehouse_SF,Miami,2463
+Warehouse_SEA,Seattle,998
+Warehouse_SEA,Atlanta,1801
+Warehouse_SEA,Houston,989
+Warehouse_LA,Seattle,1135
+Warehouse_HOU,Dallas,1673
+Warehouse_DEN,Houston,319
+Warehouse_CHI,Seattle,994
+Warehouse_LA,Portland,612
+Warehouse_LA,Los Angeles,1051
+Warehouse_SF,New York,1714
+Warehouse_CHI,Denver,1000
+Warehouse_SF,Phoenix,2210
+Warehouse_CHI,Atlanta,1510
+Warehouse_CHI,Los Angeles,1777
+Warehouse_SEA,Minneapolis,2388
+Warehouse_HOU,Miami,1198
+Warehouse_MIA,Chicago,530
+Warehouse_DEN,Los Angeles,1950
+Warehouse_MIA,Houston,2233
+Warehouse_ATL,San Francisco,1022
+Warehouse_MIA,Detroit,1447
+Warehouse_MIA,Atlanta,241
+Warehouse_BOS,Miami,2053
+Warehouse_SEA,Phoenix,1158
+Warehouse_CHI,Atlanta,2109
+Warehouse_BOS,Houston,2465
+Warehouse_BOS,New York,2366
+Warehouse_SEA,New York,543
+Warehouse_NYC,Chicago,790
+Warehouse_MIA,Minneapolis,1534
+Warehouse_CHI,Houston,2306
+Warehouse_SF,New York,1810
+Warehouse_CHI,Chicago,1953
+Warehouse_NYC,Portland,1951
+Warehouse_BOS,Houston,1744
+Warehouse_CHI,Minneapolis,1323
+Warehouse_DEN,Minneapolis,261
+Warehouse_SEA,Denver,2330
+Warehouse_CHI,Houston,973
+Warehouse_HOU,New York,2399
+Warehouse_ATL,Phoenix,1297
+Warehouse_ATL,San Francisco,1200
+Warehouse_CHI,Miami,1350
+Warehouse_LA,Miami,1075
+Warehouse_BOS,Miami,1260
+Warehouse_MIA,Miami,1926
+Warehouse_MIA,Phoenix,2204
+Warehouse_SF,Seattle,2048
+Warehouse_NYC,Atlanta,870
+Warehouse_SF,Portland,2314
+Warehouse_LA,San Francisco,1070
+Warehouse_DEN,Boston,1476
+Warehouse_CHI,Houston,1300
+Warehouse_SEA,Portland,593
+Warehouse_BOS,Chicago,1939
+Warehouse_LA,San Francisco,2497
+Warehouse_SEA,New York,510
+Warehouse_NYC,Minneapolis,2078
+Warehouse_SF,Phoenix,2080
+Warehouse_HOU,Seattle,1125
+Warehouse_SF,Seattle,2161
+Warehouse_LA,New York,2244
+Warehouse_SEA,Seattle,561
+Warehouse_NYC,Phoenix,388
+Warehouse_HOU,Portland,2453
+Warehouse_LA,Atlanta,821
+Warehouse_HOU,Chicago,1566
+Warehouse_BOS,Houston,465
+Warehouse_CHI,Atlanta,648
+Warehouse_LA,Denver,586
+Warehouse_SEA,Minneapolis,1964
+Warehouse_LA,Miami,143
+Warehouse_CHI,Houston,1262
+Warehouse_MIA,Atlanta,679
+Warehouse_LA,Chicago,755
+Warehouse_SEA,New York,2056
+Warehouse_MIA,Detroit,1222
+Warehouse_MIA,Minneapolis,1454
+Warehouse_BOS,Atlanta,1142
+Warehouse_MIA,Portland,810
+Warehouse_DEN,Phoenix,152
+Warehouse_NYC,Phoenix,1120
+Warehouse_SEA,Portland,2327
+Warehouse_SF,Houston,2380
+Warehouse_LA,Minneapolis,694
+Warehouse_HOU,New York,1791
+Warehouse_LA,New York,411
+Warehouse_SEA,San Francisco,1073
+Warehouse_MIA,Minneapolis,1634
+Warehouse_BOS,San Francisco,2411
+Warehouse_SEA,Detroit,2052
+Warehouse_NYC,Dallas,2465
+Warehouse_LA,Chicago,1213
+Warehouse_LA,Houston,1247
+Warehouse_SF,New York,2278
+Warehouse_BOS,San Francisco,2406
+Warehouse_BOS,Denver,1596
+Warehouse_HOU,San Francisco,1108
+Warehouse_LA,Portland,1380
+Warehouse_DEN,Dallas,1605
+Warehouse_SF,Boston,2138
+Warehouse_LA,Houston,1657
+Warehouse_MIA,Detroit,1423
+Warehouse_BOS,Detroit,796
+Warehouse_CHI,Chicago,308
+Warehouse_HOU,San Francisco,787
+Warehouse_ATL,Denver,2074
+Warehouse_NYC,Los Angeles,1082
+Warehouse_ATL,Dallas,1204
+Warehouse_BOS,Dallas,603
+Warehouse_ATL,Boston,1660
+Warehouse_CHI,Dallas,1322
+Warehouse_HOU,Phoenix,1469
+Warehouse_SEA,New York,1053
+Warehouse_SEA,Boston,1329
+Warehouse_DEN,Portland,156
+Warehouse_BOS,Portland,1760
+Warehouse_HOU,Houston,397
+Warehouse_ATL,Los Angeles,816
+Warehouse_HOU,Los Angeles,715
+Warehouse_NYC,Phoenix,1956
+Warehouse_BOS,Chicago,2187
+Warehouse_MIA,Denver,816
+Warehouse_LA,Atlanta,1236
+Warehouse_SF,New York,1902
+Warehouse_SEA,Denver,1038
+Warehouse_SEA,Houston,1590
+Warehouse_ATL,Chicago,590
+Warehouse_HOU,Houston,1105
+Warehouse_MIA,Minneapolis,1153
+Warehouse_LA,Minneapolis,1124
+Warehouse_LA,New York,2074
+Warehouse_HOU,Seattle,302
+Warehouse_DEN,Chicago,2073
+Warehouse_BOS,Chicago,569
+Warehouse_BOS,Los Angeles,2433
+Warehouse_ATL,Denver,677
+Warehouse_BOS,Portland,2379
+Warehouse_LA,Denver,984
+Warehouse_DEN,Miami,420
+Warehouse_MIA,Dallas,338
+Warehouse_LA,Minneapolis,1486
+Warehouse_HOU,Detroit,605
+Warehouse_DEN,Portland,165
+Warehouse_LA,Dallas,1435
+Warehouse_SF,Detroit,533
+Warehouse_BOS,Phoenix,1122
+Warehouse_ATL,Minneapolis,263
+Warehouse_DEN,Miami,1348
+Warehouse_SF,Atlanta,340
+Warehouse_DEN,Phoenix,159
+Warehouse_BOS,Chicago,2054
+Warehouse_SEA,Chicago,274
+Warehouse_LA,New York,742
+Warehouse_ATL,Dallas,2218
+Warehouse_DEN,Phoenix,1857
+Warehouse_LA,Los Angeles,2001
+Warehouse_SF,Minneapolis,293
+Warehouse_SEA,Dallas,1401
+Warehouse_DEN,Los Angeles,1778
+Warehouse_CHI,Boston,1041
+Warehouse_SF,Miami,448
+Warehouse_NYC,New York,2033
+Warehouse_DEN,Detroit,926
+Warehouse_HOU,Los Angeles,2444
+Warehouse_HOU,Detroit,1875
+Warehouse_LA,New York,2280
+Warehouse_MIA,Phoenix,1808
+Warehouse_DEN,Atlanta,1790
+Warehouse_MIA,New York,1049
+Warehouse_HOU,Portland,1218
+Warehouse_LA,Los Angeles,2144
+Warehouse_SEA,Boston,1547
+Warehouse_HOU,Dallas,370
+Warehouse_SEA,Boston,2400
+Warehouse_SEA,Atlanta,1477
+Warehouse_DEN,Boston,2363
+Warehouse_SF,New York,1442
+Warehouse_CHI,Portland,290
+Warehouse_DEN,Minneapolis,888
+Warehouse_HOU,New York,2448
+Warehouse_ATL,Minneapolis,1713
+Warehouse_ATL,Seattle,135
+Warehouse_CHI,Portland,305
+Warehouse_DEN,New York,2209
+Warehouse_BOS,Boston,2374
+Warehouse_BOS,Minneapolis,1861
+Warehouse_LA,Phoenix,373
+Warehouse_ATL,Phoenix,1520
+Warehouse_BOS,Miami,247
+Warehouse_ATL,Houston,789
+Warehouse_HOU,Atlanta,800
+Warehouse_ATL,Chicago,773
+Warehouse_DEN,Seattle,1857
+Warehouse_MIA,Detroit,1155
+Warehouse_MIA,Denver,1477
+Warehouse_NYC,Houston,1541
+Warehouse_LA,Miami,622
+Warehouse_SEA,Phoenix,1608
+Warehouse_SEA,Atlanta,1324
+Warehouse_CHI,Portland,2328
+Warehouse_SF,Detroit,1608
+Warehouse_ATL,Phoenix,2388
+Warehouse_HOU,Chicago,1028
+Warehouse_LA,Chicago,1772
+Warehouse_LA,Chicago,1707
+Warehouse_SF,Houston,1953
+Warehouse_NYC,Detroit,1319
+Warehouse_SEA,Houston,325
+Warehouse_SF,Portland,347
+Warehouse_SF,Portland,509
+Warehouse_SEA,Minneapolis,421
+Warehouse_HOU,Minneapolis,2065
+Warehouse_CHI,Los Angeles,2361
+Warehouse_MIA,San Francisco,1415
+Warehouse_SF,Detroit,1679
+Warehouse_SF,Boston,1180
+Warehouse_SEA,Dallas,1515
+Warehouse_DEN,Minneapolis,140
+Warehouse_SEA,Los Angeles,2081
+Warehouse_DEN,Los Angeles,1885
+Warehouse_SF,Portland,604
+Warehouse_SF,Portland,847
+Warehouse_SF,Chicago,2420
+Warehouse_MIA,Denver,2294
+Warehouse_SEA,Atlanta,2091
+Warehouse_BOS,Los Angeles,1358
+Warehouse_SF,Los Angeles,484
+Warehouse_MIA,Miami,675
+Warehouse_ATL,Detroit,1884
+Warehouse_MIA,Chicago,2196
+Warehouse_CHI,Atlanta,2325
+Warehouse_LA,Boston,1014
+Warehouse_BOS,Dallas,2050
+Warehouse_DEN,Dallas,474
+Warehouse_ATL,Los Angeles,498
+Warehouse_BOS,Portland,1512
+Warehouse_MIA,Atlanta,1076
+Warehouse_NYC,Portland,1115
+Warehouse_LA,Detroit,534
+Warehouse_CHI,San Francisco,1059
+Warehouse_SF,Minneapolis,1060
+Warehouse_HOU,Los Angeles,2330
+Warehouse_DEN,Chicago,1867
+Warehouse_SEA,Dallas,2096
+Warehouse_LA,San Francisco,2409
+Warehouse_LA,Portland,1616
+Warehouse_LA,Denver,1802
+Warehouse_BOS,Atlanta,2425
+Warehouse_SEA,Atlanta,1641
+Warehouse_ATL,Portland,1649
+Warehouse_NYC,Dallas,273
+Warehouse_HOU,Miami,940
+Warehouse_ATL,Detroit,1913
+Warehouse_LA,San Francisco,252
+Warehouse_MIA,Phoenix,919
+Warehouse_CHI,Atlanta,1040
+Warehouse_BOS,New York,2108
+Warehouse_SF,Phoenix,627
+Warehouse_SEA,Houston,178
+Warehouse_MIA,Denver,616
+Warehouse_HOU,Chicago,2007
+Warehouse_ATL,Chicago,2344
+Warehouse_MIA,Houston,1346
+Warehouse_NYC,Miami,283
+Warehouse_DEN,Los Angeles,164
+Warehouse_SF,Boston,1324
+Warehouse_ATL,Denver,212
+Warehouse_SEA,Denver,1035
+Warehouse_ATL,Atlanta,569
+Warehouse_NYC,Detroit,2250
+Warehouse_DEN,Seattle,1171
+Warehouse_HOU,New York,462
+Warehouse_HOU,San Francisco,1761
+Warehouse_HOU,Minneapolis,658
+Warehouse_HOU,Phoenix,978
+Warehouse_CHI,Phoenix,1349
+Warehouse_ATL,Houston,483
+Warehouse_DEN,Houston,1707
+Warehouse_ATL,Dallas,2333
+Warehouse_CHI,San Francisco,1605
+Warehouse_SF,Seattle,1019
+Warehouse_NYC,San Francisco,1945
+Warehouse_HOU,Phoenix,804
+Warehouse_HOU,Phoenix,1081
+Warehouse_SEA,Seattle,1211
+Warehouse_CHI,Houston,1560
+Warehouse_BOS,Chicago,1843
+Warehouse_SEA,Seattle,2418
+Warehouse_NYC,Portland,568
+Warehouse_NYC,San Francisco,906
+Warehouse_SEA,Houston,642
+Warehouse_CHI,Houston,1954
+Warehouse_MIA,Boston,2192
+Warehouse_SF,Denver,1113
+Warehouse_SF,Detroit,1837
+Warehouse_LA,Minneapolis,162
+Warehouse_SEA,Minneapolis,2454
+Warehouse_HOU,Dallas,603
+Warehouse_BOS,Chicago,1340
+Warehouse_SF,Phoenix,1963
+Warehouse_LA,New York,2254
+Warehouse_SF,Dallas,664
+Warehouse_MIA,Los Angeles,1072
+Warehouse_MIA,Atlanta,1363
+Warehouse_NYC,Minneapolis,515
+Warehouse_SEA,Detroit,262
+Warehouse_SEA,New York,1866
+Warehouse_DEN,Chicago,1304
+Warehouse_SEA,Dallas,187
+Warehouse_LA,Chicago,1486
+Warehouse_SF,New York,1468
+Warehouse_CHI,Seattle,2283
+Warehouse_SF,Houston,1950
+Warehouse_MIA,Chicago,983
+Warehouse_DEN,Los Angeles,344
+Warehouse_BOS,Detroit,1996
+Warehouse_DEN,Los Angeles,1671
+Warehouse_NYC,Miami,829
+Warehouse_SF,Los Angeles,1508
+Warehouse_LA,Boston,1504
+Warehouse_CHI,Seattle,1844
+Warehouse_SEA,New York,319
+Warehouse_SEA,Chicago,1635
+Warehouse_MIA,Denver,309
+Warehouse_DEN,Houston,1002
+Warehouse_SF,Denver,295
+Warehouse_ATL,Seattle,2252
+Warehouse_LA,Los Angeles,2378
+Warehouse_SEA,Minneapolis,1473
+Warehouse_MIA,Detroit,1433
+Warehouse_MIA,Houston,239
+Warehouse_ATL,Atlanta,2461
+Warehouse_NYC,Miami,1588
+Warehouse_BOS,Denver,328
+Warehouse_BOS,Los Angeles,2213
+Warehouse_CHI,Portland,1553
+Warehouse_ATL,Los Angeles,1225
+Warehouse_ATL,Atlanta,1428
+Warehouse_HOU,Portland,267
+Warehouse_ATL,Minneapolis,650
+Warehouse_MIA,Houston,1859
+Warehouse_LA,Boston,912
+Warehouse_BOS,Atlanta,490
+Warehouse_ATL,Detroit,1517
+Warehouse_SF,Denver,1785
+Warehouse_SF,Minneapolis,543
+Warehouse_ATL,San Francisco,1055
+Warehouse_MIA,Atlanta,2177
+Warehouse_NYC,Houston,1769
+Warehouse_HOU,Boston,1126
+Warehouse_LA,Minneapolis,1685
+Warehouse_ATL,Dallas,838
+Warehouse_ATL,Miami,2025
+Warehouse_NYC,Seattle,121
+Warehouse_ATL,Houston,582
+Warehouse_ATL,New York,357
+Warehouse_SF,Dallas,961
+Warehouse_HOU,Miami,1292
+Warehouse_MIA,Los Angeles,320
+Warehouse_SEA,Seattle,1611
+Warehouse_ATL,Phoenix,1288
+Warehouse_SF,Portland,896
+Warehouse_LA,Boston,1452
+Warehouse_SF,Dallas,210
+Warehouse_CHI,Portland,389
+Warehouse_LA,New York,643
+Warehouse_ATL,Boston,838
+Warehouse_DEN,Detroit,1383
+Warehouse_MIA,New York,121
+Warehouse_DEN,Atlanta,2146
+Warehouse_LA,Boston,223
+Warehouse_HOU,Minneapolis,1255
+Warehouse_BOS,Phoenix,825
+Warehouse_SF,Minneapolis,1852
+Warehouse_SF,Dallas,1764
+Warehouse_MIA,Phoenix,713
+Warehouse_LA,Chicago,1898
+Warehouse_DEN,Portland,1681
+Warehouse_ATL,Miami,1256
+Warehouse_BOS,Los Angeles,1984
+Warehouse_MIA,Phoenix,2445
+Warehouse_LA,Miami,2243
+Warehouse_MIA,Chicago,2201
+Warehouse_MIA,Boston,2255
+Warehouse_SF,Atlanta,962
+Warehouse_SF,Miami,1681
+Warehouse_SF,Boston,640
+Warehouse_CHI,Phoenix,2409
+Warehouse_ATL,San Francisco,1203
+Warehouse_CHI,Atlanta,231
+Warehouse_SEA,Portland,1886
+Warehouse_MIA,Chicago,1896
+Warehouse_CHI,San Francisco,1412
+Warehouse_ATL,Chicago,110
+Warehouse_HOU,Miami,682
+Warehouse_DEN,San Francisco,2264
+Warehouse_CHI,Boston,413
+Warehouse_MIA,Los Angeles,377
+Warehouse_SF,Phoenix,2483
+Warehouse_ATL,San Francisco,1705
+Warehouse_DEN,Dallas,1525
+Warehouse_MIA,Phoenix,1178
+Warehouse_SF,Houston,1612
+Warehouse_LA,New York,2488
+Warehouse_HOU,Dallas,2144
+Warehouse_NYC,Dallas,341
+Warehouse_BOS,Boston,484
+Warehouse_SEA,Detroit,1461
+Warehouse_LA,Chicago,766
+Warehouse_ATL,Dallas,1151
+Warehouse_MIA,San Francisco,412
+Warehouse_MIA,Dallas,1858
+Warehouse_HOU,Dallas,1113
+Warehouse_HOU,Seattle,1775
+Warehouse_DEN,New York,109
+Warehouse_ATL,Miami,752
+Warehouse_ATL,Denver,2253
+Warehouse_BOS,Portland,1837
+Warehouse_HOU,Chicago,264
+Warehouse_LA,Detroit,920
+Warehouse_BOS,Dallas,385
+Warehouse_CHI,San Francisco,1650
+Warehouse_MIA,Minneapolis,2133
+Warehouse_SF,San Francisco,1191
+Warehouse_LA,Miami,836
+Warehouse_SF,Los Angeles,723
+Warehouse_MIA,Los Angeles,1990
+Warehouse_BOS,Minneapolis,660
+Warehouse_ATL,Houston,2174
+Warehouse_ATL,Minneapolis,651
+Warehouse_DEN,Boston,508
+Warehouse_CHI,Houston,2165
+Warehouse_HOU,Portland,1038
+Warehouse_SF,Los Angeles,2201
+Warehouse_DEN,Detroit,1808
+Warehouse_SEA,Phoenix,553
+Warehouse_SEA,New York,560
+Warehouse_MIA,Atlanta,2189
+Warehouse_ATL,Detroit,393
+Warehouse_SEA,Minneapolis,1505
+Warehouse_DEN,New York,1673
+Warehouse_LA,Portland,1029
+Warehouse_SF,Miami,2487
+Warehouse_SEA,Los Angeles,1495
+Warehouse_BOS,Chicago,1121
+Warehouse_BOS,Minneapolis,1457
+Warehouse_HOU,Miami,1832
+Warehouse_SF,Los Angeles,1208
+Warehouse_SF,Denver,531
+Warehouse_SF,Portland,1803
+Warehouse_SEA,Los Angeles,2363
+Warehouse_ATL,Chicago,1274
+Warehouse_CHI,New York,1678
+Warehouse_SF,Minneapolis,1667
+Warehouse_DEN,Houston,1937
+Warehouse_ATL,Dallas,659
+Warehouse_SEA,Miami,663
+Warehouse_BOS,New York,1431
+Warehouse_NYC,Seattle,872
+Warehouse_ATL,Houston,1747
+Warehouse_LA,Houston,1314
+Warehouse_MIA,Los Angeles,2460
+Warehouse_MIA,New York,2189
+Warehouse_SEA,Denver,2105
+Warehouse_BOS,Miami,2185
+Warehouse_BOS,Phoenix,1123
+Warehouse_ATL,San Francisco,348
+Warehouse_HOU,Detroit,265
+Warehouse_BOS,Portland,2008
+Warehouse_LA,Chicago,1305
+Warehouse_SF,Portland,1646
+Warehouse_CHI,Atlanta,2448
+Warehouse_BOS,Dallas,1854
+Warehouse_BOS,Minneapolis,1208
+Warehouse_MIA,Dallas,1753
+Warehouse_DEN,Houston,1615
+Warehouse_SF,Detroit,105
+Warehouse_SF,Atlanta,472
+Warehouse_ATL,Seattle,530
+Warehouse_SEA,Seattle,1498
+Warehouse_CHI,Portland,154
+Warehouse_ATL,Chicago,357
+Warehouse_BOS,San Francisco,2440
+Warehouse_NYC,Portland,1846
+Warehouse_NYC,Detroit,497
+Warehouse_BOS,Houston,632
+Warehouse_DEN,Boston,1086
+Warehouse_ATL,Chicago,284
+Warehouse_LA,Detroit,1465
+Warehouse_SEA,Denver,1000
+Warehouse_LA,Minneapolis,623
+Warehouse_CHI,Houston,2422
+Warehouse_ATL,Detroit,1284
+Warehouse_SEA,Chicago,593
+Warehouse_SF,San Francisco,2164
+Warehouse_CHI,Boston,1217
+Warehouse_CHI,San Francisco,140
+Warehouse_NYC,Minneapolis,1367
+Warehouse_LA,Chicago,2072
+Warehouse_DEN,Atlanta,150
+Warehouse_BOS,Phoenix,1168
+Warehouse_MIA,Denver,147
+Warehouse_LA,Los Angeles,159
+Warehouse_DEN,Los Angeles,607
+Warehouse_SF,Detroit,475
+Warehouse_BOS,Houston,1370
+Warehouse_ATL,Miami,1795
+Warehouse_DEN,Phoenix,2208
+Warehouse_HOU,Boston,585
+Warehouse_LA,Atlanta,1610
+Warehouse_HOU,Boston,2380
+Warehouse_NYC,Miami,1692
+Warehouse_BOS,Miami,1032
+Warehouse_ATL,Los Angeles,1003
+Warehouse_SF,Phoenix,367
+Warehouse_SEA,Miami,1614
+Warehouse_LA,Portland,402
+Warehouse_DEN,Miami,469
+Warehouse_MIA,Detroit,2030
+Warehouse_DEN,Minneapolis,810
+Warehouse_LA,San Francisco,735
+Warehouse_DEN,Minneapolis,236
+Warehouse_SEA,Phoenix,1346
+Warehouse_BOS,Miami,1056
+Warehouse_DEN,Miami,1660
+Warehouse_HOU,Los Angeles,2174
+Warehouse_DEN,Portland,2308
+Warehouse_BOS,Houston,307
+Warehouse_MIA,Phoenix,912
+Warehouse_DEN,New York,1646
+Warehouse_CHI,Boston,2012
+Warehouse_LA,San Francisco,1342
+Warehouse_SEA,Phoenix,2030
+Warehouse_MIA,Miami,147
+Warehouse_SF,Chicago,1277
+Warehouse_BOS,Portland,1012
+Warehouse_ATL,Chicago,2372
+Warehouse_SF,Dallas,1234
+Warehouse_NYC,Houston,1246
+Warehouse_BOS,Dallas,1068
+Warehouse_ATL,Denver,1192
+Warehouse_DEN,Dallas,923
+Warehouse_ATL,Houston,1434
+Warehouse_BOS,Phoenix,1682
+Warehouse_LA,Denver,2386
+Warehouse_NYC,Los Angeles,1007
+Warehouse_MIA,New York,1636
+Warehouse_MIA,Detroit,810
+Warehouse_LA,Chicago,1640
+Warehouse_HOU,Seattle,1517
+Warehouse_HOU,Minneapolis,2458
+Warehouse_HOU,Miami,2114
+Warehouse_SF,Boston,1683
+Warehouse_DEN,Dallas,345
+Warehouse_MIA,Detroit,2470
+Warehouse_MIA,Chicago,1780
+Warehouse_SF,Seattle,2049
+Warehouse_SEA,Phoenix,2363
+Warehouse_SEA,Chicago,2315
+Warehouse_MIA,Detroit,1415
+Warehouse_MIA,Chicago,454
+Warehouse_MIA,Portland,862
+Warehouse_DEN,Boston,1889
+Warehouse_NYC,Los Angeles,909
+Warehouse_CHI,Portland,675
+Warehouse_BOS,New York,677
+Warehouse_ATL,Phoenix,1315
+Warehouse_CHI,Seattle,105
+Warehouse_LA,New York,1791
+Warehouse_ATL,Miami,209
+Warehouse_NYC,Dallas,350
+Warehouse_DEN,Minneapolis,1802
+Warehouse_ATL,Minneapolis,1093
+Warehouse_LA,Los Angeles,1645
+Warehouse_NYC,Detroit,121
+Warehouse_HOU,Minneapolis,205
+Warehouse_CHI,Chicago,1943
+Warehouse_LA,Houston,1317
+Warehouse_MIA,New York,237
+Warehouse_BOS,Detroit,489
+Warehouse_CHI,Phoenix,1752
+Warehouse_DEN,San Francisco,1323
+Warehouse_BOS,San Francisco,255
+Warehouse_LA,New York,420
+Warehouse_CHI,Atlanta,1506
+Warehouse_MIA,Phoenix,1763
+Warehouse_BOS,Boston,1483
+Warehouse_ATL,Boston,1921
+Warehouse_SF,Atlanta,1737
+Warehouse_BOS,Miami,560
+Warehouse_HOU,Dallas,1118
+Warehouse_DEN,Seattle,2287
+Warehouse_NYC,Minneapolis,475
+Warehouse_CHI,Atlanta,976
+Warehouse_BOS,Chicago,1702
+Warehouse_DEN,Los Angeles,2010
+Warehouse_HOU,Seattle,2323
+Warehouse_NYC,Detroit,2263
+Warehouse_SEA,Minneapolis,1054
+Warehouse_SF,Phoenix,905
+Warehouse_DEN,Atlanta,1069
+Warehouse_BOS,Dallas,2274
+Warehouse_SF,Atlanta,161
+Warehouse_HOU,Boston,2282
+Warehouse_SEA,Dallas,1008
+Warehouse_MIA,Seattle,1235
+Warehouse_ATL,Boston,1512
+Warehouse_MIA,Boston,2415
+Warehouse_SF,Seattle,1969
+Warehouse_ATL,San Francisco,1687
+Warehouse_BOS,Houston,1624
+Warehouse_ATL,San Francisco,337
+Warehouse_SF,Portland,2131
+Warehouse_HOU,Phoenix,371
+Warehouse_DEN,Minneapolis,2393
+Warehouse_SF,Boston,1504
+Warehouse_DEN,Chicago,2333
+Warehouse_SEA,Dallas,303
+Warehouse_HOU,Seattle,2147
+Warehouse_ATL,Boston,2282
+Warehouse_CHI,Atlanta,2106
+Warehouse_DEN,San Francisco,1611
+Warehouse_SF,New York,104
+Warehouse_SF,Dallas,917
+Warehouse_LA,Houston,1090
+Warehouse_MIA,Portland,181
+Warehouse_HOU,Phoenix,2300
+Warehouse_SF,Denver,1176
+Warehouse_MIA,Minneapolis,605
+Warehouse_MIA,Los Angeles,1973
+Warehouse_CHI,Minneapolis,106
+Warehouse_HOU,Miami,1118
+Warehouse_SF,San Francisco,1034
+Warehouse_CHI,Seattle,1878
+Warehouse_SF,Seattle,1819
+Warehouse_SF,Dallas,2355
+Warehouse_SF,Boston,2282
+Warehouse_BOS,New York,308
+Warehouse_SF,Portland,1221
+Warehouse_ATL,Houston,945
+Warehouse_BOS,Phoenix,2256
+Warehouse_NYC,Minneapolis,481
+Warehouse_BOS,Portland,1767
+Warehouse_MIA,Phoenix,788
+Warehouse_HOU,Minneapolis,1017
+Warehouse_DEN,Seattle,1577
+Warehouse_ATL,Detroit,419
+Warehouse_BOS,Houston,2328
+Warehouse_ATL,New York,669
+Warehouse_SF,Denver,468
+Warehouse_DEN,San Francisco,563
+Warehouse_MIA,Phoenix,1584
+Warehouse_SEA,Minneapolis,2107
+Warehouse_MIA,Los Angeles,1473
+Warehouse_ATL,Minneapolis,253
+Warehouse_SF,Boston,757
+Warehouse_SEA,San Francisco,1796
+Warehouse_SEA,Seattle,2087
+Warehouse_BOS,Chicago,1027
+Warehouse_ATL,Denver,2442
+Warehouse_SF,San Francisco,862
+Warehouse_DEN,Minneapolis,1805
+Warehouse_SF,New York,1943
+Warehouse_CHI,Chicago,2441
+Warehouse_HOU,Portland,1336
+Warehouse_LA,Portland,1050
+Warehouse_ATL,Atlanta,2107
+Warehouse_MIA,Dallas,517
+Warehouse_SF,Dallas,1154
+Warehouse_ATL,San Francisco,407
+Warehouse_NYC,Los Angeles,2076
+Warehouse_NYC,Denver,2346
+Warehouse_BOS,Portland,576
+Warehouse_MIA,Atlanta,1773
+Warehouse_DEN,Atlanta,1144
+Warehouse_SEA,Denver,2049
+Warehouse_NYC,Dallas,1319
+Warehouse_ATL,Miami,625
+Warehouse_DEN,Boston,820
+Warehouse_ATL,San Francisco,2036
+Warehouse_CHI,Atlanta,1771
+Warehouse_BOS,Seattle,1841
+Warehouse_SEA,Denver,1875
+Warehouse_HOU,Miami,297
+Warehouse_ATL,Phoenix,1290
+Warehouse_BOS,Denver,2033
+Warehouse_HOU,Houston,974
+Warehouse_MIA,Portland,1492
+Warehouse_HOU,New York,2198
+Warehouse_DEN,Detroit,1280
+Warehouse_SEA,Los Angeles,1355
+Warehouse_MIA,Portland,1288
+Warehouse_MIA,Chicago,1555
+Warehouse_HOU,Miami,1631
+Warehouse_CHI,Chicago,400
+Warehouse_LA,Los Angeles,1460
+Warehouse_SEA,Denver,1095
+Warehouse_DEN,Atlanta,336
+Warehouse_LA,San Francisco,1524
+Warehouse_ATL,San Francisco,762
+Warehouse_DEN,Seattle,1524
+Warehouse_HOU,Minneapolis,688
+Warehouse_ATL,Detroit,2339
+Warehouse_MIA,Portland,2132
+Warehouse_BOS,Boston,1257
+Warehouse_SEA,San Francisco,749
+Warehouse_HOU,New York,773
+Warehouse_ATL,Denver,228
+Warehouse_HOU,New York,2417
+Warehouse_DEN,Chicago,500
+Warehouse_BOS,Detroit,493
+Warehouse_MIA,Los Angeles,612
+Warehouse_ATL,Atlanta,2137
+Warehouse_SEA,Atlanta,850
+Warehouse_BOS,Phoenix,1975
+Warehouse_MIA,New York,1685
+Warehouse_SEA,Houston,2254
+Warehouse_LA,Atlanta,1761
+Warehouse_CHI,Los Angeles,789
+Warehouse_MIA,Houston,790
+Warehouse_ATL,Dallas,1485
+Warehouse_SEA,San Francisco,2017
+Warehouse_MIA,Detroit,2021
+Warehouse_NYC,Denver,1466
+Warehouse_BOS,Boston,626
+Warehouse_DEN,Atlanta,1063
+Warehouse_BOS,Chicago,2387
+Warehouse_LA,San Francisco,1260
+Warehouse_SF,Detroit,842
+Warehouse_SF,New York,1457
+Warehouse_SF,Detroit,2372
+Warehouse_BOS,Denver,1986
+Warehouse_SF,Seattle,128
+Warehouse_NYC,Phoenix,426
+Warehouse_DEN,San Francisco,1708
+Warehouse_LA,Chicago,1842
+Warehouse_ATL,Seattle,670
+Warehouse_SF,Atlanta,1675
+Warehouse_MIA,San Francisco,2249
+Warehouse_ATL,Portland,229
+Warehouse_SF,Minneapolis,399
+Warehouse_SEA,Los Angeles,519
+Warehouse_LA,Houston,1505
+Warehouse_SEA,Denver,2017
+Warehouse_NYC,Phoenix,2264
+Warehouse_SF,San Francisco,2222
+Warehouse_SF,Denver,1418
+Warehouse_NYC,Dallas,1838
+Warehouse_DEN,Atlanta,253
+Warehouse_DEN,Houston,1565
+Warehouse_ATL,Atlanta,1447
+Warehouse_BOS,New York,312
+Warehouse_BOS,Phoenix,101
+Warehouse_DEN,Denver,1413
+Warehouse_HOU,Seattle,581
+Warehouse_SF,Dallas,1737
+Warehouse_MIA,Denver,489
+Warehouse_ATL,Miami,2310
+Warehouse_LA,Atlanta,1931
+Warehouse_CHI,Portland,207
+Warehouse_SEA,Dallas,1463
+Warehouse_CHI,Portland,780
+Warehouse_ATL,Minneapolis,506
+Warehouse_DEN,Dallas,2349
+Warehouse_ATL,New York,704
+Warehouse_NYC,Portland,1209
+Warehouse_LA,Boston,1231
+Warehouse_NYC,Dallas,415
+Warehouse_ATL,Phoenix,270
+Warehouse_NYC,Detroit,2393
+Warehouse_HOU,Dallas,772
+Warehouse_SF,Portland,719
+Warehouse_DEN,Phoenix,1045
+Warehouse_SF,Atlanta,1185
+Warehouse_ATL,Boston,2120
+Warehouse_BOS,Portland,2431
+Warehouse_BOS,New York,799
+Warehouse_LA,Detroit,427
+Warehouse_NYC,Portland,1670
+Warehouse_BOS,Portland,1895
+Warehouse_ATL,Miami,862
+Warehouse_SF,New York,1709
+Warehouse_NYC,Phoenix,2397
+Warehouse_LA,San Francisco,862
+Warehouse_DEN,Atlanta,1256
+Warehouse_NYC,Miami,1368
+Warehouse_ATL,Houston,1976
+Warehouse_LA,San Francisco,313
+Warehouse_DEN,San Francisco,1291
+Warehouse_BOS,Miami,1853
+Warehouse_NYC,Portland,2443
+Warehouse_SEA,San Francisco,531
+Warehouse_HOU,Houston,134
+Warehouse_SF,Seattle,2490
+Warehouse_CHI,Los Angeles,2291
+Warehouse_LA,Miami,1914
+Warehouse_ATL,Dallas,1333
+Warehouse_BOS,Seattle,627
+Warehouse_NYC,Houston,866
+Warehouse_SEA,Boston,1896
+Warehouse_LA,San Francisco,1981
+Warehouse_MIA,Houston,266
+Warehouse_NYC,Houston,1665
+Warehouse_DEN,New York,1446
+Warehouse_HOU,Miami,807
+Warehouse_NYC,Phoenix,1863
+Warehouse_SEA,Phoenix,1391
+Warehouse_NYC,Dallas,361
+Warehouse_HOU,Minneapolis,2484
+Warehouse_BOS,Chicago,810
+Warehouse_BOS,Atlanta,1230
+Warehouse_ATL,Detroit,173
+Warehouse_SEA,Boston,1689
+Warehouse_DEN,New York,910
+Warehouse_SEA,Phoenix,111
+Warehouse_SEA,San Francisco,1170
+Warehouse_HOU,Phoenix,796
+Warehouse_BOS,Los Angeles,1849
+Warehouse_MIA,Los Angeles,716
+Warehouse_DEN,Los Angeles,265
+Warehouse_CHI,Seattle,1576
+Warehouse_DEN,Houston,2305
+Warehouse_NYC,Boston,215
+Warehouse_DEN,Denver,1505
+Warehouse_MIA,San Francisco,2149
+Warehouse_SEA,Chicago,1585
+Warehouse_LA,Chicago,112
+Warehouse_DEN,Boston,2154
+Warehouse_MIA,Boston,1608
+Warehouse_BOS,Atlanta,1077
+Warehouse_SEA,Denver,565
+Warehouse_MIA,Chicago,453
+Warehouse_HOU,New York,2078
+Warehouse_LA,Houston,1047
+Warehouse_SF,Boston,1582
+Warehouse_HOU,Miami,1302
+Warehouse_SF,Minneapolis,1157
+Warehouse_DEN,Portland,1989
+Warehouse_SEA,Portland,374
+Warehouse_ATL,Portland,131
+Warehouse_DEN,Minneapolis,422
+Warehouse_ATL,Atlanta,1940
+Warehouse_NYC,Seattle,860
+Warehouse_SF,Miami,1122
+Warehouse_SF,Minneapolis,1640
+Warehouse_NYC,San Francisco,2274
+Warehouse_NYC,Denver,461
+Warehouse_MIA,Detroit,702
+Warehouse_SF,San Francisco,462
+Warehouse_SF,San Francisco,1317
+Warehouse_LA,San Francisco,2473
+Warehouse_DEN,Phoenix,1457
+Warehouse_MIA,Phoenix,1493
+Warehouse_SEA,San Francisco,1876
+Warehouse_MIA,Detroit,1067
+Warehouse_DEN,Chicago,1762
+Warehouse_HOU,Los Angeles,1945
+Warehouse_MIA,Denver,591
+Warehouse_DEN,Atlanta,850
+Warehouse_BOS,Los Angeles,1413
+Warehouse_SEA,Boston,2324
+Warehouse_BOS,Portland,2421
+Warehouse_DEN,Denver,1109
+Warehouse_SEA,Minneapolis,2087
+Warehouse_CHI,Dallas,2379
+Warehouse_DEN,Dallas,438
+Warehouse_BOS,Phoenix,196
+Warehouse_HOU,Minneapolis,1272
+Warehouse_ATL,Phoenix,2255
+Warehouse_MIA,Los Angeles,409
+Warehouse_SEA,San Francisco,2438
+Warehouse_MIA,Dallas,2051
+Warehouse_HOU,Chicago,2145
+Warehouse_MIA,New York,1839
+Warehouse_DEN,Los Angeles,723
+Warehouse_ATL,Boston,615
+Warehouse_HOU,Chicago,809
+Warehouse_CHI,Dallas,997
+Warehouse_SF,Minneapolis,2389
+Warehouse_SEA,Dallas,2001
+Warehouse_MIA,Detroit,788
+Warehouse_DEN,Dallas,300
+Warehouse_ATL,Denver,2006
+Warehouse_ATL,Denver,203
+Warehouse_DEN,Houston,751
+Warehouse_HOU,Seattle,2290
+Warehouse_SF,Minneapolis,261
+Warehouse_MIA,Seattle,1794
+Warehouse_CHI,Houston,2055
+Warehouse_SEA,Denver,2199
+Warehouse_SF,Minneapolis,799
+Warehouse_LA,Portland,250
+Warehouse_BOS,Houston,1409
+Warehouse_CHI,Portland,1129
+Warehouse_NYC,New York,1090
+Warehouse_CHI,Dallas,1704
+Warehouse_MIA,Chicago,1331
+Warehouse_NYC,Seattle,1023
+Warehouse_HOU,Detroit,1985
+Warehouse_SEA,Portland,243
+Warehouse_BOS,Portland,1834
+Warehouse_SEA,Portland,1726
+Warehouse_LA,Portland,1168
+Warehouse_HOU,Houston,880
+Warehouse_CHI,Minneapolis,267
+Warehouse_CHI,Boston,1097
+Warehouse_BOS,Detroit,329
+Warehouse_ATL,Seattle,880
+Warehouse_HOU,Los Angeles,376
+Warehouse_HOU,Detroit,2205
+Warehouse_LA,Chicago,545
+Warehouse_LA,Minneapolis,2479
+Warehouse_HOU,Detroit,662
+Warehouse_ATL,Minneapolis,454
+Warehouse_HOU,Phoenix,1402
+Warehouse_SF,Miami,244
+Warehouse_LA,Chicago,1139
+Warehouse_HOU,San Francisco,531
+Warehouse_ATL,Atlanta,796
+Warehouse_SF,Chicago,188
+Warehouse_MIA,Minneapolis,2219
+Warehouse_ATL,Dallas,2110
+Warehouse_CHI,Minneapolis,784
+Warehouse_ATL,Houston,786
+Warehouse_HOU,Dallas,1512
+Warehouse_SEA,Portland,1310
+Warehouse_NYC,Detroit,2398
+Warehouse_MIA,San Francisco,1373
+Warehouse_MIA,Atlanta,1036
+Warehouse_MIA,San Francisco,894
+Warehouse_BOS,New York,1261
+Warehouse_NYC,Miami,2145
+Warehouse_HOU,Minneapolis,1737
+Warehouse_ATL,Atlanta,1965
+Warehouse_BOS,Chicago,1178
+Warehouse_SF,Chicago,640
+Warehouse_SF,New York,1503
+Warehouse_DEN,Phoenix,1671
+Warehouse_ATL,Houston,2289
+Warehouse_HOU,Phoenix,1664
+Warehouse_BOS,Houston,499
+Warehouse_SEA,Chicago,2109
+Warehouse_SF,Denver,510
+Warehouse_CHI,Seattle,2329
+Warehouse_CHI,Houston,2001
+Warehouse_LA,Detroit,278
+Warehouse_DEN,San Francisco,1179
+Warehouse_BOS,Detroit,251
+Warehouse_LA,Los Angeles,926
+Warehouse_SF,Detroit,365
+Warehouse_ATL,Dallas,326
+Warehouse_BOS,Seattle,2207
+Warehouse_SEA,Houston,656
+Warehouse_SEA,Portland,761
+Warehouse_NYC,Houston,1322
+Warehouse_LA,Houston,1933
+Warehouse_CHI,Phoenix,1949
+Warehouse_LA,Denver,638
+Warehouse_DEN,Chicago,1876
+Warehouse_ATL,Miami,1274
+Warehouse_NYC,Houston,131
+Warehouse_BOS,Minneapolis,2297
+Warehouse_SEA,Atlanta,1772
+Warehouse_BOS,Detroit,2316
+Warehouse_NYC,Minneapolis,2180
+Warehouse_HOU,San Francisco,1362
+Warehouse_LA,Chicago,1750
+Warehouse_LA,Denver,1178
+Warehouse_BOS,Los Angeles,2185
+Warehouse_DEN,Seattle,2095
+Warehouse_HOU,Seattle,663
+Warehouse_MIA,Denver,2054
+Warehouse_SEA,Seattle,2197
+Warehouse_CHI,Minneapolis,2368
+Warehouse_BOS,Chicago,1989
+Warehouse_HOU,Phoenix,1020
+Warehouse_SEA,Portland,598
+Warehouse_SF,Atlanta,1866
+Warehouse_SEA,Los Angeles,1413
+Warehouse_MIA,San Francisco,956
+Warehouse_DEN,New York,1580
+Warehouse_NYC,Minneapolis,1216
+Warehouse_BOS,Dallas,2066
+Warehouse_NYC,Los Angeles,855
+Warehouse_MIA,Detroit,298
+Warehouse_ATL,Phoenix,214
+Warehouse_MIA,Detroit,2330
+Warehouse_ATL,Boston,505
+Warehouse_MIA,Boston,1617
+Warehouse_DEN,New York,1270
+Warehouse_DEN,Atlanta,2007
+Warehouse_BOS,Los Angeles,813
+Warehouse_BOS,Chicago,1746
+Warehouse_SF,Atlanta,1911
+Warehouse_SEA,Denver,1816
+Warehouse_DEN,Phoenix,998
+Warehouse_HOU,Boston,470
+Warehouse_SF,Miami,2455
+Warehouse_BOS,Atlanta,559
+Warehouse_BOS,Phoenix,2384
+Warehouse_DEN,Chicago,698
+Warehouse_BOS,Denver,1920
+Warehouse_BOS,Portland,958
+Warehouse_HOU,Detroit,2057
+Warehouse_DEN,San Francisco,1148
+Warehouse_BOS,Boston,2221
+Warehouse_HOU,Phoenix,2287
+Warehouse_MIA,Seattle,1807
+Warehouse_BOS,New York,2362
+Warehouse_SEA,Phoenix,544
+Warehouse_CHI,Los Angeles,544
+Warehouse_DEN,Los Angeles,637
+Warehouse_ATL,Minneapolis,507
+Warehouse_DEN,Atlanta,2009
+Warehouse_ATL,New York,2010
+Warehouse_CHI,Chicago,487
+Warehouse_MIA,Portland,1369
+Warehouse_SF,Chicago,1542
+Warehouse_HOU,Portland,1838
+Warehouse_LA,Denver,1364
+Warehouse_SEA,Atlanta,173
+Warehouse_NYC,Miami,2343
+Warehouse_ATL,Detroit,505
+Warehouse_SEA,Minneapolis,206
+Warehouse_SEA,New York,1656
+Warehouse_HOU,San Francisco,377
+Warehouse_SF,Dallas,1631
+Warehouse_ATL,Denver,403
+Warehouse_CHI,Atlanta,611
+Warehouse_SF,Chicago,1111
+Warehouse_CHI,Seattle,1162
+Warehouse_LA,Houston,146
+Warehouse_HOU,Houston,1541
+Warehouse_CHI,Atlanta,1865
+Warehouse_DEN,Boston,1924
+Warehouse_HOU,San Francisco,854
+Warehouse_CHI,Portland,2469
+Warehouse_SEA,Dallas,166
+Warehouse_HOU,Portland,528
+Warehouse_SF,Minneapolis,1908
+Warehouse_NYC,Denver,713
+Warehouse_BOS,Denver,306
+Warehouse_NYC,San Francisco,302
+Warehouse_CHI,Houston,1655
+Warehouse_DEN,Miami,2239
+Warehouse_NYC,San Francisco,2003
+Warehouse_NYC,San Francisco,1553
+Warehouse_ATL,Minneapolis,1843
+Warehouse_BOS,Phoenix,487
+Warehouse_DEN,Miami,1061
+Warehouse_NYC,Detroit,585
+Warehouse_NYC,Denver,691
+Warehouse_SEA,Detroit,1097
+Warehouse_ATL,Boston,2216
+Warehouse_SF,Phoenix,1229
+Warehouse_NYC,Minneapolis,1591
+Warehouse_LA,New York,807
+Warehouse_NYC,Dallas,1065
+Warehouse_BOS,Minneapolis,1408
+Warehouse_SF,Phoenix,1340
+Warehouse_BOS,Atlanta,451
+Warehouse_DEN,San Francisco,1360
+Warehouse_MIA,Los Angeles,2212
+Warehouse_LA,Portland,2293
+Warehouse_MIA,Portland,1711
+Warehouse_MIA,San Francisco,580
+Warehouse_NYC,Detroit,1463
+Warehouse_HOU,Dallas,1472
+Warehouse_BOS,Houston,1364
+Warehouse_LA,Los Angeles,1377
+Warehouse_SEA,San Francisco,1332
+Warehouse_HOU,Phoenix,1209
+Warehouse_BOS,Minneapolis,2300
+Warehouse_BOS,Phoenix,289
+Warehouse_SEA,Seattle,670
+Warehouse_SEA,Boston,2379
+Warehouse_BOS,San Francisco,274
+Warehouse_SF,Boston,1438
+Warehouse_DEN,Seattle,2309
+Warehouse_LA,Chicago,1581
+Warehouse_NYC,New York,932
+Warehouse_HOU,Boston,812
+Warehouse_HOU,Phoenix,925
+Warehouse_BOS,Atlanta,1541
+Warehouse_MIA,Chicago,974
+Warehouse_NYC,Miami,190
+Warehouse_SF,Miami,1646
+Warehouse_SEA,Miami,2200
+Warehouse_DEN,Phoenix,2246
+Warehouse_HOU,Boston,295
+Warehouse_ATL,Chicago,2212
+Warehouse_LA,New York,458
+Warehouse_BOS,Miami,1396
+Warehouse_CHI,Phoenix,890
+Warehouse_SF,Chicago,496
+Warehouse_NYC,San Francisco,2488
+Warehouse_BOS,Dallas,1507
+Warehouse_HOU,Dallas,599
+Warehouse_DEN,Denver,234
+Warehouse_SF,San Francisco,1974
+Warehouse_CHI,San Francisco,2271
+Warehouse_SF,Miami,1599
+Warehouse_CHI,Minneapolis,977
+Warehouse_NYC,Denver,1311
+Warehouse_CHI,Los Angeles,268
+Warehouse_DEN,San Francisco,1466
+Warehouse_ATL,Chicago,2181
+Warehouse_HOU,Houston,379
+Warehouse_HOU,Portland,123
+Warehouse_ATL,Phoenix,501
+Warehouse_SF,Minneapolis,1034
+Warehouse_MIA,Denver,283
+Warehouse_SEA,Minneapolis,552
+Warehouse_LA,Minneapolis,2181
+Warehouse_ATL,Minneapolis,2466
+Warehouse_SF,Phoenix,636
+Warehouse_SF,Miami,208
+Warehouse_SEA,Atlanta,1442
+Warehouse_LA,New York,295
+Warehouse_BOS,Denver,1720
+Warehouse_HOU,Boston,912
+Warehouse_BOS,Miami,2129
+Warehouse_ATL,Miami,305
+Warehouse_BOS,Atlanta,2250
+Warehouse_MIA,Detroit,2105
+Warehouse_DEN,Miami,392
+Warehouse_SF,Dallas,1956
+Warehouse_NYC,Houston,863
+Warehouse_SEA,New York,2347
+Warehouse_SEA,Houston,919
+Warehouse_LA,Boston,176
+Warehouse_SEA,Detroit,2055
+Warehouse_HOU,Los Angeles,1439
+Warehouse_HOU,Minneapolis,860
+Warehouse_SF,Atlanta,2171
+Warehouse_MIA,Detroit,2029
+Warehouse_DEN,Minneapolis,2247
+Warehouse_SF,Denver,131
+Warehouse_DEN,Denver,152
+Warehouse_DEN,Phoenix,224
+Warehouse_MIA,San Francisco,1229
+Warehouse_ATL,Atlanta,1305
+Warehouse_NYC,Seattle,344
+Warehouse_SEA,Chicago,1369
+Warehouse_LA,Los Angeles,2056
+Warehouse_DEN,Los Angeles,1355
+Warehouse_BOS,Atlanta,122
+Warehouse_MIA,Denver,860
+Warehouse_HOU,Detroit,1115
+Warehouse_SEA,Atlanta,1098
+Warehouse_MIA,Los Angeles,2447
+Warehouse_BOS,Los Angeles,1114
+Warehouse_NYC,Dallas,759
+Warehouse_SEA,Dallas,2176
+Warehouse_MIA,Dallas,287
+Warehouse_LA,New York,1356
+Warehouse_DEN,Atlanta,737
+Warehouse_SF,Phoenix,1189
+Warehouse_LA,Minneapolis,2156
+Warehouse_MIA,Miami,916
+Warehouse_CHI,New York,1474
+Warehouse_SEA,Miami,1523
+Warehouse_SEA,Houston,1713
+Warehouse_MIA,Portland,594
+Warehouse_NYC,Phoenix,2151
+Warehouse_CHI,Boston,989
+Warehouse_ATL,Denver,250
+Warehouse_LA,Boston,378
+Warehouse_SEA,Houston,2228
+Warehouse_DEN,Atlanta,2067
+Warehouse_SF,Boston,1021
+Warehouse_MIA,Minneapolis,1420
+Warehouse_BOS,Phoenix,896
+Warehouse_SF,Los Angeles,752
+Warehouse_ATL,Atlanta,398
+Warehouse_DEN,Miami,1237
+Warehouse_DEN,Miami,1651
+Warehouse_LA,Miami,1658
+Warehouse_MIA,Denver,1829
+Warehouse_NYC,Houston,1879
+Warehouse_NYC,Minneapolis,197
+Warehouse_DEN,Chicago,1325
+Warehouse_LA,Portland,1538
+Warehouse_SF,Chicago,1077
+Warehouse_SF,Boston,1947
+Warehouse_DEN,Atlanta,1074
+Warehouse_ATL,Chicago,587
+Warehouse_MIA,Atlanta,746
+Warehouse_BOS,Boston,1675
+Warehouse_LA,Boston,1636
+Warehouse_HOU,San Francisco,2490
+Warehouse_ATL,Detroit,775
+Warehouse_HOU,San Francisco,1393
+Warehouse_LA,Los Angeles,2499
+Warehouse_ATL,Phoenix,680
+Warehouse_CHI,Houston,2190
+Warehouse_LA,Los Angeles,1899
+Warehouse_ATL,Phoenix,2166
+Warehouse_CHI,Dallas,520
+Warehouse_DEN,New York,715
+Warehouse_ATL,Dallas,1773
+Warehouse_SEA,Detroit,369
+Warehouse_NYC,Los Angeles,846
+Warehouse_LA,Boston,905
+Warehouse_BOS,Los Angeles,171
+Warehouse_MIA,Minneapolis,2222
+Warehouse_SEA,Miami,2462
+Warehouse_ATL,Minneapolis,1529
+Warehouse_BOS,Miami,1912
+Warehouse_LA,New York,1194
+Warehouse_SF,Portland,1916
+Warehouse_MIA,Denver,504
+Warehouse_CHI,Phoenix,1815
+Warehouse_DEN,Denver,834
+Warehouse_ATL,Seattle,997
+Warehouse_MIA,Chicago,1993
+Warehouse_NYC,San Francisco,2423
+Warehouse_BOS,Dallas,1732
+Warehouse_MIA,Portland,928
+Warehouse_SEA,Detroit,1521
+Warehouse_ATL,Detroit,2178
+Warehouse_DEN,Boston,2201
+Warehouse_SF,Phoenix,117
+Warehouse_ATL,Boston,1739
+Warehouse_SF,Chicago,421
+Warehouse_SF,Seattle,916
+Warehouse_NYC,San Francisco,2202
+Warehouse_SEA,Seattle,371
+Warehouse_SEA,Chicago,1456
+Warehouse_DEN,Portland,1417
+Warehouse_SEA,Houston,1402
+Warehouse_LA,Atlanta,178
+Warehouse_DEN,Houston,1575
+Warehouse_ATL,Portland,1995
+Warehouse_DEN,Portland,606
+Warehouse_NYC,Minneapolis,433
+Warehouse_SEA,Portland,755
+Warehouse_ATL,Los Angeles,1464
+Warehouse_HOU,Los Angeles,386
+Warehouse_BOS,Portland,1899
+Warehouse_LA,Portland,787
+Warehouse_NYC,Portland,2388
+Warehouse_ATL,Dallas,2347
+Warehouse_SF,San Francisco,1364
+Warehouse_CHI,Boston,2200
+Warehouse_BOS,Chicago,701
+Warehouse_NYC,Detroit,1883
+Warehouse_BOS,Detroit,2424
+Warehouse_SF,New York,2059
+Warehouse_MIA,Atlanta,152
+Warehouse_MIA,Minneapolis,1495
+Warehouse_SF,Denver,854
+Warehouse_SEA,Portland,101
+Warehouse_HOU,Boston,2353
+Warehouse_HOU,Los Angeles,1382
+Warehouse_LA,Denver,1453
+Warehouse_ATL,Houston,1321
+Warehouse_HOU,New York,835
+Warehouse_LA,Miami,1035
+Warehouse_CHI,Minneapolis,226
+Warehouse_HOU,Miami,2194
+Warehouse_HOU,Phoenix,1865
+Warehouse_BOS,Minneapolis,892
+Warehouse_SF,Phoenix,2356
+Warehouse_DEN,Miami,165
+Warehouse_MIA,Miami,403
+Warehouse_LA,New York,1462
+Warehouse_SF,Minneapolis,1715
+Warehouse_NYC,Detroit,2033
+Warehouse_ATL,Dallas,1309
+Warehouse_HOU,Boston,942
+Warehouse_SF,Portland,1070
+Warehouse_ATL,San Francisco,2032
+Warehouse_NYC,Portland,2132
+Warehouse_ATL,Seattle,1030
+Warehouse_DEN,Phoenix,645
+Warehouse_SEA,Chicago,368
+Warehouse_SF,Phoenix,1225
+Warehouse_ATL,Denver,2161
+Warehouse_BOS,Seattle,610
+Warehouse_SEA,Los Angeles,847
+Warehouse_SEA,Minneapolis,2256
+Warehouse_DEN,Minneapolis,1324
+Warehouse_LA,Denver,1801
+Warehouse_SF,Seattle,559
+Warehouse_BOS,Los Angeles,2429
+Warehouse_SF,Detroit,2102
+Warehouse_HOU,New York,914
+Warehouse_DEN,Miami,1843
+Warehouse_LA,Detroit,878
+Warehouse_SEA,Portland,816
+Warehouse_ATL,Miami,2414
+Warehouse_LA,Chicago,391
+Warehouse_BOS,Seattle,757
+Warehouse_MIA,Portland,2488
+Warehouse_DEN,Detroit,2188
+Warehouse_CHI,Minneapolis,1547
+Warehouse_SEA,Atlanta,224
+Warehouse_DEN,Miami,1552
+Warehouse_HOU,Detroit,2410
+Warehouse_SF,Denver,395
+Warehouse_SEA,San Francisco,1462
+Warehouse_NYC,Portland,1399
+Warehouse_NYC,Seattle,1025
+Warehouse_SEA,New York,118
+Warehouse_DEN,Phoenix,1226
+Warehouse_ATL,New York,1073
+Warehouse_DEN,San Francisco,255
+Warehouse_DEN,Detroit,865
+Warehouse_LA,Minneapolis,1694
+Warehouse_ATL,Los Angeles,1317
+Warehouse_MIA,Portland,645
+Warehouse_SEA,New York,1172
+Warehouse_CHI,Atlanta,1711
+Warehouse_HOU,Dallas,2345
+Warehouse_LA,Los Angeles,128
+Warehouse_SF,San Francisco,2044
+Warehouse_ATL,Phoenix,1880
+Warehouse_NYC,Houston,1870
+Warehouse_NYC,Portland,1227
+Warehouse_HOU,San Francisco,2321
+Warehouse_ATL,Atlanta,2464
+Warehouse_MIA,Detroit,476
+Warehouse_NYC,Phoenix,1423
+Warehouse_DEN,San Francisco,1731
+Warehouse_LA,Denver,619
+Warehouse_MIA,Minneapolis,2208
+Warehouse_CHI,Dallas,1021
+Warehouse_BOS,Detroit,2216
+Warehouse_BOS,Denver,1724
+Warehouse_SF,Los Angeles,2362
+Warehouse_MIA,Detroit,2360
+Warehouse_ATL,Boston,2450
+Warehouse_HOU,Boston,1642
+Warehouse_MIA,Chicago,1657
+Warehouse_NYC,Minneapolis,1855
+Warehouse_NYC,Seattle,1360
+Warehouse_SF,Portland,139
+Warehouse_SEA,Miami,2104
+Warehouse_SF,Dallas,116
+Warehouse_MIA,Denver,1809
+Warehouse_BOS,Detroit,1478
+Warehouse_BOS,Portland,1811
+Warehouse_HOU,Miami,1145
+Warehouse_SF,Los Angeles,2106
+Warehouse_SF,Houston,629
+Warehouse_ATL,Portland,1809
+Warehouse_BOS,Los Angeles,113
+Warehouse_HOU,Detroit,503
+Warehouse_HOU,Houston,1460
+Warehouse_NYC,San Francisco,489
+Warehouse_DEN,Denver,491
+Warehouse_CHI,Atlanta,1814
+Warehouse_SEA,Portland,2220
+Warehouse_NYC,Portland,2420
+Warehouse_BOS,San Francisco,2170
+Warehouse_MIA,Los Angeles,451
+Warehouse_ATL,Phoenix,1931
+Warehouse_ATL,Minneapolis,2449
+Warehouse_SF,Dallas,1323
+Warehouse_SEA,Detroit,510
+Warehouse_NYC,San Francisco,465
+Warehouse_LA,Chicago,664
+Warehouse_MIA,New York,944
+Warehouse_LA,Denver,1746
+Warehouse_HOU,Portland,2067
+Warehouse_CHI,Los Angeles,447
+Warehouse_BOS,Chicago,677
+Warehouse_LA,New York,1780
+Warehouse_NYC,Dallas,351
+Warehouse_BOS,Seattle,1794
+Warehouse_NYC,Seattle,1919
+Warehouse_NYC,Minneapolis,801
+Warehouse_MIA,Miami,218
+Warehouse_ATL,Boston,1306
+Warehouse_CHI,Minneapolis,2247
+Warehouse_CHI,Los Angeles,1603
+Warehouse_SF,Detroit,1099
+Warehouse_HOU,Miami,1012
+Warehouse_MIA,Detroit,2012
+Warehouse_SF,Seattle,2273
+Warehouse_SEA,Atlanta,1919
+Warehouse_ATL,Chicago,1506
+Warehouse_HOU,Miami,2053
+Warehouse_HOU,Seattle,2225
+Warehouse_ATL,Seattle,2018
+Warehouse_DEN,Minneapolis,1949
+Warehouse_HOU,Detroit,2307
+Warehouse_SEA,Detroit,2041
+Warehouse_CHI,New York,628
+Warehouse_DEN,Portland,1852
+Warehouse_CHI,Los Angeles,162
+Warehouse_CHI,Chicago,1995
+Warehouse_MIA,Minneapolis,1469
+Warehouse_NYC,Miami,1875
+Warehouse_SF,New York,409
+Warehouse_SEA,Seattle,513
+Warehouse_BOS,Denver,1974
+Warehouse_DEN,Seattle,284
+Warehouse_LA,Portland,1128
+Warehouse_HOU,San Francisco,231
+Warehouse_MIA,Denver,542
+Warehouse_DEN,New York,636
+Warehouse_NYC,Portland,1438
+Warehouse_BOS,Phoenix,822
+Warehouse_HOU,Phoenix,744
+Warehouse_MIA,Portland,1549
+Warehouse_SF,Miami,2478
+Warehouse_MIA,Seattle,142
+Warehouse_DEN,Miami,2353
+Warehouse_HOU,Detroit,1163
+Warehouse_ATL,Dallas,1068
+Warehouse_SEA,Boston,1875
+Warehouse_LA,Detroit,2430
+Warehouse_SF,Portland,505
+Warehouse_ATL,Portland,2191
+Warehouse_LA,New York,1899
+Warehouse_SF,Chicago,1754
+Warehouse_NYC,Houston,956
+Warehouse_DEN,Los Angeles,2114
+Warehouse_DEN,Portland,1084
+Warehouse_HOU,Houston,1375
+Warehouse_CHI,Los Angeles,169
+Warehouse_CHI,New York,706
+Warehouse_BOS,Los Angeles,985
+Warehouse_DEN,Denver,506
+Warehouse_BOS,Atlanta,545
+Warehouse_DEN,Dallas,1116
+Warehouse_MIA,Chicago,992
+Warehouse_DEN,Boston,1921
+Warehouse_SEA,New York,247
+Warehouse_MIA,Boston,1734
+Warehouse_SEA,Chicago,1515
+Warehouse_MIA,San Francisco,1900
+Warehouse_HOU,Los Angeles,2317
+Warehouse_CHI,Houston,2300
+Warehouse_HOU,Dallas,2226
+Warehouse_SEA,Denver,826
+Warehouse_SF,Dallas,943
+Warehouse_HOU,Chicago,1843
+Warehouse_ATL,Houston,209
+Warehouse_NYC,Houston,1711
+Warehouse_LA,Houston,693
+Warehouse_ATL,Houston,998
+Warehouse_CHI,Atlanta,2030
+Warehouse_SF,Portland,1675
+Warehouse_SF,Detroit,1813
+Warehouse_SF,New York,596
+Warehouse_DEN,Minneapolis,1174
+Warehouse_SEA,Atlanta,145
+Warehouse_LA,Denver,111
+Warehouse_NYC,New York,2018
+Warehouse_HOU,Miami,948
+Warehouse_HOU,Chicago,1877
+Warehouse_SEA,Seattle,2300
+Warehouse_ATL,Portland,177
+Warehouse_CHI,Boston,2350
+Warehouse_SF,Seattle,237
+Warehouse_BOS,San Francisco,1616
+Warehouse_HOU,Phoenix,1708
+Warehouse_HOU,Portland,1912
+Warehouse_SEA,Detroit,2188
