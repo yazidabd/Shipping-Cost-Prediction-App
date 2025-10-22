@@ -110,3 +110,10 @@ kemudian, jalankan aplikasi app.py
 ```terminal
 streamlit run app.py
 ```
+
+---
+
+## 👤 Author
+**Yazid Abdullah Subhi**  
+_Data Enthusiast | data analyst & data science_  
+📧 [yazidabdhi@gmail.com](mailto:yazidabdhi@gmail.com)
